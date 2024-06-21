@@ -26,12 +26,11 @@ urls:
 
 author_logo: profile.png
 author: John Doe
-author_bio: Hi, i'm Spencer.
+author_bio: Hi, i'm Spencer. :D
 author_email: "spencerduran@gmail.com"
 author_location: United States
 author_website_url: "https://spencerduran.com"
-typewrite-text: Practitioner level CDMP. Data quality, modeling and design, integration and interoperability.
-VIM + TMUX Evangelist, Command line enthusiast.
+typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
