@@ -296,12 +296,13 @@ a { text-decoration:none; }
         top:-1px;
         vertical-align:middle;
     }
-
-    img[alt="bookimg"] { 
-        height: 240px;
-        width: 160px;
-		max-width: 160px; /* or max-width: 60px; */
-    }
+	img[alt="bookimg"] { 
+	    max-height: 240px;
+	    max-width: 160px;
+	    width: auto;
+	    height: auto;
+	    object-fit: contain;
+	}
     img[alt="devicon"] { 
         height: 60px;
         width: 60px;
