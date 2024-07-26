@@ -2,16 +2,16 @@ subject: Skills
 listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Data Theory
+  - title: Programming Languages
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
+  - title: Data Methodologies
     description: "
         ![bookimg](/assets/img/DataQualityBook.jpg)
         ![bookimg](/assets/img/KimballBook.jpg)
         ![bookimg](/assets/img/InmonBook.jpg)
         ![bookimg](/assets/img/DataGovernanceBook.jpg)"
-  - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
   - title: Cloud
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
