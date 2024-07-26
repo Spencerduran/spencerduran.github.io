@@ -12,18 +12,6 @@ contents:
         ![bookimg](/assets/img/KimballBook.jpg)
         ![bookimg](/assets/img/dmbok.png)
         ![bookimg](/assets/img/DataGovernanceBook.jpg)"
-  - title: Cloud
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](/assets/img/Athena.svg)
-      ![devicon](/assets/img/QuickSight.svg)
-      ![devicon](/assets/img/Redshift.svg)
-      ![devicon](/assets/img/GlueDataBrew.svg)
-      ![devicon](/assets/img/CloudWatch.svg)
-      ![devicon](/assets/img/Snowflake.png)
-      ![devicon](/assets/img/Databricks.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
   - title: DevOps
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
@@ -33,5 +21,15 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg) "
-
-
+  - title: Cloud
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+      ![devicon](/assets/img/Athena.svg)
+      ![devicon](/assets/img/QuickSight.svg)
+      ![devicon](/assets/img/Redshift.svg)
+      ![devicon](/assets/img/GlueDataBrew.svg)
+      ![devicon](/assets/img/CloudWatch.svg)
+      ![devicon](/assets/img/Snowflake.png)
+      ![devicon](/assets/img/Databricks.png)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
