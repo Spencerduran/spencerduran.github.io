@@ -2,18 +2,26 @@ subject: Skills
 listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
+  - title: Data Theory
+    description: "
+      ![bookimg](/assets/img/DataQualityBook.jpg)
+      ![bookimg](/assets/img/DataGovernanceBook.jpg)
+      ![bookimg](/assets/img/KimballBook.jpg)
+      ![bookimg](/assets/img/InmonBook.jpg)"
   - title: Programming and Data
     description: "
-      ![devicon](/assets/img/Athena.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
-  - title: Cloud and DevOps
+  - title: Cloud
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)
+      ![devicon](/assets/img/Athena.svg)
+      ![devicon](/assets/img/Quicksight.svg)
+      ![devicon](/assets/img/Snowflake.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)"
+  - title: Cloud and DevOps
+    description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)
@@ -22,4 +30,5 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
+
 
