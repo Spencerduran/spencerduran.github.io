@@ -8,10 +8,9 @@ contents:
         ![bookimg](/assets/img/KimballBook.jpg)
         ![bookimg](/assets/img/InmonBook.jpg)
         ![bookimg](/assets/img/DataGovernanceBook.jpg)"
-  - title: Programming and Data
+  - title: Programming Languages
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
   - title: Cloud
     description: "
