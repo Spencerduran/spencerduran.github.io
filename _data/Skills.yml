@@ -4,11 +4,10 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Data Theory
     description: "
-        ![bookimg](/assets/img/KimballBook.jpg)"
-  ##      ![bookimg](/assets/img/DataQualityBook.jpg)
-  ##      ![bookimg](/assets/img/DataGovernanceBook.jpg)
-  #      ![bookimg](/assets/img/KimballBook.jpg)
-  ##      ![bookimg](/assets/img/InmonBook.jpg)"
+        ![bookimg](/assets/img/DataQualityBook.jpg)
+        ![bookimg](/assets/img/KimballBook.jpg)
+        ![bookimg](/assets/img/InmonBook.jpg)
+        ![bookimg](/assets/img/DataGovernanceBook.jpg)"
   - title: Programming and Data
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
