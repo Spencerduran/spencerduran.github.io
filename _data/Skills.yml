@@ -6,12 +6,6 @@ contents:
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
-  - title: Data Methodologies
-    description: "
-        ![bookimg](/assets/img/DataQualityBook.jpg)
-        ![bookimg](/assets/img/KimballBook.jpg)
-        ![bookimg](/assets/img/dmbok.png)
-        ![bookimg](/assets/img/DataGovernanceBook.jpg)"
   - title: DevOps
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
@@ -33,3 +27,9 @@ contents:
       ![devicon](/assets/img/DataBricks.png)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
+  - title: Data Methodologies
+    description: "
+        ![bookimg](/assets/img/DataQualityBook.jpg)
+        ![bookimg](/assets/img/KimballBook.jpg)
+        ![bookimg](/assets/img/dmbok.png)
+        ![bookimg](/assets/img/DataGovernanceBook.jpg)"
