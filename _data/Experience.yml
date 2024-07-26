@@ -1,22 +1,43 @@
-subject: Experiences
+subject: Experience
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Navy Mutual Aid Association
+    role: Enterprise Data Steward (Governance)
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Served as Acting Product Owner for a new data lake house, integrating data from multiple legacy systems and new SaaS systems.
+      - Created comprehensive data dictionaries for legacy systems during migration to the new data lake house.
+      - Defined requirements and provided oversight for the modeling and mastering of data elements in the lake house.
+      - Implemented a Power User program, selecting and training departmental representatives to serve as data stewards to foster a culture of data ownership.
+      - Led joint data and business team governance meetings, ensuring clear definitions and metrics.
+      - Led development of KPI visuals and dashboards using Agile methodologies.
+      - Collaborated closely with department leads, technology architects, and stakeholders to deliver reliable business intelligence visualizations.
+      - Orchestrated reviews of reporting metrics and Quicksight visualizations for monthly Steering Committee meetings, improving visibility in performance over time.
+      - Delivered ad hoc training sessions and data analysis support across the organization.
+      - Participated in the recruitment, selection, and onboarding of two new Business Intelligence Analysts.
+    date: Aug. 2022 - Ongoing
+  - title: Rocket Homes
+    role: Senior Technical Data Steward
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Led data onboarding efforts for MLS, VOW, and IDX feeds from all 50 states utilizing RETS DMQL, RESO Web API and SOAP.
+      - Extensive experience working with Corelogic Trestle, Black Knight Paragon and Navica, MLS Grid, Spark API, Zillow Bridge Interactive API, and FlexMLS
+      - Engineered automated tooling to retrieve metadata structures and sample datasets, improving efficiency in data integration processes.
+      - Developed mapping and normalization configurations for hundreds of data feeds, including complex derivative mapping to meet stringent data requirements.
+      - Established processes to measure data standards of Completeness, Timeliness, Consistency, Validity, and Accuracy, enhancing overall data quality.
+      - Utilized AWS Athena (SQL) and CloudWatch extensively for data quality assurance and ETL pipeline diagnostics.
+      - Compiled and standardized company technical terms into enterprise-level metadata, fostering improved communication across departments.
+      - Collaborated with governance team stewards to review and validate technical aspects of data governance materials.
+      - Built custom data quality rules and implemented data profiling techniques to ensure data integrity across the organization.
+    date: March 2018 - Aug. 2022
+  - title: Rocket Homes
+    role: Executive Agent Coordinator
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Established and maintained relationships between clients, realtors and lender parties involved in the home buying process 
+      - \#1 in Production among a team of 36 with 744 closings for 2016
+    date: May 2014 - March 2018
+  - title: Quicken Loans
+    role: Mortgage Loan Officer - Purchase Specialist
+    description: 
+      - Educated and advised clients on the home buying process, and provided mortgage solutions for long term goals.
+      - NMLS Licensed, Licensed in 16 states as a Mortgage Loan Originator
+    date: May 2014 - March 2018
