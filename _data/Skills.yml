@@ -2,11 +2,12 @@ subject: Skills
 listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  ##  - title: Data Theory
-  ##    description: "
+  - title: Data Theory
+    description: "
+        ![bookimg](/assets/img/KimballBook.jpg)"
   ##      ![bookimg](/assets/img/DataQualityBook.jpg)
   ##      ![bookimg](/assets/img/DataGovernanceBook.jpg)
-  ##      ![bookimg](/assets/img/KimballBook.jpg)
+  #      ![bookimg](/assets/img/KimballBook.jpg)
   ##      ![bookimg](/assets/img/InmonBook.jpg)"
   - title: Programming and Data
     description: "
