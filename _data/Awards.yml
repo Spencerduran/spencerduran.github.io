@@ -1,13 +1,7 @@
 subject: Awards
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Certified Data Management Professional (CDMP) | DAMA International
+    description: "Practitioner level: Specializations in Data Modeling and Design + Data Quality"
+    date: April 2024
