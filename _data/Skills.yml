@@ -4,6 +4,9 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Programming and Data
     description: "
+      ![devicon](/assets/img/Athena.svg)
+      ![devicon](/assets/img/Athena.png)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg)
@@ -20,3 +23,4 @@ contents:
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
+
