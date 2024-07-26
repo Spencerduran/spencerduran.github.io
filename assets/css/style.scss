@@ -300,7 +300,7 @@ a { text-decoration:none; }
     img[alt="bookimg"] { 
         height: 100px;
         width: 80px;
-		max-width: none; /* or max-width: 60px; */
+		max-width: 80px; /* or max-width: 60px; */
     }
     img[alt="devicon"] { 
         height: 60px;
