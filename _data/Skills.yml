@@ -2,12 +2,12 @@ subject: Skills
 listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Data Theory
-    description: "
-      ![bookimg](/assets/img/DataQualityBook.jpg)
-      ![bookimg](/assets/img/DataGovernanceBook.jpg)
-      ![bookimg](/assets/img/KimballBook.jpg)
-      ![bookimg](/assets/img/InmonBook.jpg)"
+  ##  - title: Data Theory
+  ##    description: "
+  ##      ![bookimg](/assets/img/DataQualityBook.jpg)
+  ##      ![bookimg](/assets/img/DataGovernanceBook.jpg)
+  ##      ![bookimg](/assets/img/KimballBook.jpg)
+  ##      ![bookimg](/assets/img/InmonBook.jpg)"
   - title: Programming and Data
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
@@ -17,8 +17,8 @@ contents:
     description: "
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
       ![devicon](/assets/img/Athena.svg)
-      ![devicon](/assets/img/Quicksight.svg)
-      ![devicon](/assets/img/Snowflake.svg)
+      ![devicon](/assets/img/QuickSight.svg)
+      ![devicon](/assets/img/Snowflake.webp)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)"
   - title: Cloud and DevOps
     description: "
