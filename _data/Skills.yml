@@ -1,33 +1,18 @@
 subject: Skills
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
+  - title: Semantic Layer & Governance
+    description: "Denodo, Looker, Snowflake Cortex Analyst, data catalog & metric registry design"
+  - title: AI Agent Evaluation
+    description: "Evaluating LLM/agent output against governed definitions — accuracy, refusal, and error-rate tracking"
+  - title: Data Engineering & Quality
     description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)"
-  - title: DevOps
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg) "
-  - title: Cloud
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](/assets/img/Athena.svg)
-      ![devicon](/assets/img/QuickSight.svg)
-      ![devicon](/assets/img/Redshift.svg)
-      ![devicon](/assets/img/GlueDataBrew.svg)
-      ![devicon](/assets/img/CloudWatch.svg)
-      ![devicon](/assets/img/Snowflake.png)
-      ![devicon](/assets/img/DataBricks.png)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg)"
-  - title: Data Methodologies
-    description: "
-        ![bookimg](/assets/img/DataQualityBook.jpg)
-        ![bookimg](/assets/img/KimballBook.jpg)
-        ![bookimg](/assets/img/dmbok.png)
-        ![bookimg](/assets/img/DataGovernanceBook.jpg)"
+      SQL, Dagster, dbt, Iceberg, Snowflake, Databricks, Athena, Python; DAMA-DMBOK, Kimball, Inmon, Agile SDLC; Data Quality Assessment Framework (Sebastian-Coleman)
+
+      ![bookimg](/assets/img/KimballBook.jpg)
+      ![bookimg](/assets/img/dmbok.png)
+      ![bookimg](/assets/img/DataGovernanceBook.jpg)
+      ![bookimg](/assets/img/DataQualityBook.jpg)"
+  - title: Visualization & Monitoring
+    description: "Looker, AWS QuickSight, Splunk, Datadog"
