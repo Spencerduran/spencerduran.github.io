@@ -3,16 +3,32 @@ listing-order: 4
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Semantic Layer & Governance
-    description: "Denodo, Looker, Snowflake Cortex Analyst, data catalog & metric registry design"
+    description: |-
+      ![devicon](https://cdn.simpleicons.org/looker)
+      ![devicon](/assets/img/Snowflake.png)
+
+      Denodo, Looker, Snowflake Cortex Analyst, data catalog & metric registry design
   - title: AI Agent Evaluation
     description: "Evaluating LLM/agent output against governed definitions — accuracy, refusal, and error-rate tracking"
   - title: Data Engineering & Quality
-    description: "
-      SQL, Dagster, dbt, Iceberg, Snowflake, Databricks, Athena, Python; DAMA-DMBOK, Kimball, Inmon, Agile SDLC; Data Quality Assessment Framework (Sebastian-Coleman)
+    description: |-
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      ![devicon](/assets/img/Snowflake.png)
+      ![devicon](/assets/img/DataBricks.png)
+      ![devicon](/assets/img/Athena.svg)
 
+      SQL, Dagster, dbt, Iceberg, Snowflake, Databricks, Athena, Python; DAMA-DMBOK, Kimball, Inmon, Agile SDLC; Data Quality Assessment Framework (Sebastian-Coleman)
+  - title: Data Methodologies
+    description: |-
       ![bookimg](/assets/img/KimballBook.jpg)
       ![bookimg](/assets/img/dmbok.png)
       ![bookimg](/assets/img/DataGovernanceBook.jpg)
-      ![bookimg](/assets/img/DataQualityBook.jpg)"
+      ![bookimg](/assets/img/DataQualityBook.jpg)
   - title: Visualization & Monitoring
-    description: "Looker, AWS QuickSight, Splunk, Datadog"
+    description: |-
+      ![devicon](https://cdn.simpleicons.org/looker)
+      ![devicon](/assets/img/QuickSight.svg)
+      ![devicon](/assets/img/Splunk.png)
+      ![devicon](https://cdn.simpleicons.org/datadog)
+
+      Looker, AWS QuickSight, Splunk, Datadog
