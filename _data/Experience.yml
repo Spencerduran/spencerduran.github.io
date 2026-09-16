@@ -2,6 +2,11 @@ subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
+  - title: Monster Lead Group
+    role: Manager of Data Governance
+    description:
+      - More details coming soon.
+    date: Aug. 2024 - Ongoing
   - title: Navy Mutual Aid Association
     role: Enterprise Data Steward (Governance)
     description:
@@ -15,7 +20,7 @@ contents:
       - Orchestrated reviews of reporting metrics and Quicksight visualizations for monthly Steering Committee meetings, improving visibility in performance over time.
       - Delivered ad hoc training sessions and data analysis support across the organization.
       - Participated in the recruitment, selection, and onboarding of new Business Intelligence Analysts.
-    date: Aug. 2022 - Ongoing
+    date: Aug. 2022 - Aug. 2024
   - title: Rocket Homes
     role: Senior Technical Data Steward
     description: 
